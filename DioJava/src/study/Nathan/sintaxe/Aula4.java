@@ -1,4 +1,4 @@
-package edu.Nathan.aprendendoSintaxejava;
+package study.Nathan.sintaxe;
 
 public class Aula4 {
 
